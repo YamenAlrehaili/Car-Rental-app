@@ -1,4 +1,4 @@
-# carrental
+# Car Rental App
 
 A new Flutter project.
 
