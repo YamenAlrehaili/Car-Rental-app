@@ -1,5 +1,5 @@
 # Car Rental App
-The Car Rental App is a Flutter-based mobile application that allows users to easily rent cars. The app provides a simple, intuitive user interface and seamless integration with Firebase for secure authentication and database storage.
+**An easy way to rent a car is provided by this mobile app, which is built with Flutter. Using Firebase for secure authentication and database storage, the app offers a user experience that is straightforward and intuitive.**
 
 ## Features
 * Sign in using email and password authentication provided by Firebase
